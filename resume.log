@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.17)  16 APR 2017 00:41
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.17)  16 APR 2017 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,49 +881,49 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 121--122
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 141--141
+Underfull \hbox (badness 10000) in alignment at lines 142--142
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 141--142
+Overfull \hbox (17.0pt too wide) in paragraph at lines 142--143
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 145--145
+Underfull \hbox (badness 10000) in alignment at lines 146--146
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 145--146
+Overfull \hbox (17.0pt too wide) in paragraph at lines 146--147
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 150--150
+Underfull \hbox (badness 10000) in alignment at lines 151--151
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 150--151
+Overfull \hbox (17.0pt too wide) in paragraph at lines 151--152
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 156--156
+Underfull \hbox (badness 10000) in alignment at lines 157--157
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 156--157
+Overfull \hbox (17.0pt too wide) in paragraph at lines 157--158
 [][] 
  []
 
@@ -931,7 +931,7 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 156--157
 Here is how much of TeX's memory you used:
  17755 strings out of 493638
  366258 string characters out of 6146796
- 372956 words of memory out of 5000000
+ 373956 words of memory out of 5000000
  21010 multiletter control sequences out of 15000+600000
  8476 words of font info for 63 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
