@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.17)  16 APR 2017 00:26
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.17)  16 APR 2017 00:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -671,8 +671,7 @@ mappings.tex)))
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 . <->"Calibri/BI/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
 .................................................
-
-No file resume.aux.
+ (./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -691,7 +690,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 37.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 37.
-(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 37.
@@ -882,61 +881,57 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 121--122
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 140--140
+Underfull \hbox (badness 10000) in alignment at lines 141--141
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 140--141
+Overfull \hbox (17.0pt too wide) in paragraph at lines 141--142
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 144--144
+Underfull \hbox (badness 10000) in alignment at lines 145--145
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 144--145
+Overfull \hbox (17.0pt too wide) in paragraph at lines 145--146
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 149--149
+Underfull \hbox (badness 10000) in alignment at lines 150--150
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 149--150
+Overfull \hbox (17.0pt too wide) in paragraph at lines 150--151
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 155--155
+Underfull \hbox (badness 10000) in alignment at lines 156--156
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 155--156
+Overfull \hbox (17.0pt too wide) in paragraph at lines 156--157
 [][] 
  []
 
-[2] (./resume.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[2] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 17753 strings out of 493638
- 366236 string characters out of 6146796
- 371949 words of memory out of 5000000
+ 17755 strings out of 493638
+ 366258 string characters out of 6146796
+ 372956 words of memory out of 5000000
  21010 multiletter control sequences out of 15000+600000
  8476 words of font info for 63 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
