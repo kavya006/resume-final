@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.17)  16 APR 2017 00:46
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.17)  19 JUL 2017 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -859,61 +859,51 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 93--94
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 104--104
+Underfull \hbox (badness 10000) in alignment at lines 112--112
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 104--105
+Overfull \hbox (17.0pt too wide) in paragraph at lines 112--113
 [][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 107.
+(Font)              <12> on input line 115.
 
-Underfull \hbox (badness 10000) in alignment at lines 121--121
+Underfull \hbox (badness 10000) in alignment at lines 129--129
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 121--122
+Overfull \hbox (17.0pt too wide) in paragraph at lines 129--130
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 142--142
+Underfull \hbox (badness 10000) in alignment at lines 148--148
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 142--143
+Overfull \hbox (17.0pt too wide) in paragraph at lines 148--149
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 146--146
+Underfull \hbox (badness 10000) in alignment at lines 152--152
 [][] 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 146--147
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 151--151
-[][] 
- []
-
-
-Overfull \hbox (17.0pt too wide) in paragraph at lines 151--152
+Overfull \hbox (17.0pt too wide) in paragraph at lines 152--153
 [][] 
  []
 
@@ -927,11 +917,21 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 157--158
 [][] 
  []
 
+
+Underfull \hbox (badness 10000) in alignment at lines 163--163
+[][] 
+ []
+
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 163--164
+[][] 
+ []
+
 [2] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
  17755 strings out of 493638
  366258 string characters out of 6146796
- 373956 words of memory out of 5000000
+ 372956 words of memory out of 5000000
  21010 multiletter control sequences out of 15000+600000
  8476 words of font info for 63 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
